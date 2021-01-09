@@ -9,5 +9,8 @@
         <module name="nettyio" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="nettyio" target="7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
